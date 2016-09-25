@@ -1,0 +1,425 @@
+race,age,population_estimate,standard_error
+White,17,37,35.91100109994151
+White,18,35,24.371089429896237
+White,19,2,5.5362442142665635
+White,20,23,16.81963138716185
+White,21,53,34.955686232714704
+White,22,156,56.12530623524472
+White,23,385,116.5877352040085
+White,24,1200,206.48268692556286
+White,25,5249,395.5326788016383
+White,26,9663,543.0595731593359
+White,27,14961,683.9120191954518
+White,28,18301,900.2260271731761
+White,29,19857,748.496392776879
+White,30,23627,920.1813951607585
+White,31,22063,893.6437489290685
+White,32,24908,1041.3854953858345
+White,33,22781,850.5636660474041
+White,34,21959,834.1491173645153
+White,35,22924,846.102682893749
+White,36,20951,779.262343501853
+White,37,20695,764.9415663957607
+White,38,21913,830.5287171434833
+White,39,21331,790.4435463712763
+White,40,21743,854.2548507324966
+White,41,22122,780.3964377161136
+White,42,21864,804.3005657091135
+White,43,22175,814.1030033110061
+White,44,22943,833.8972658547335
+White,45,22837,772.4827182532953
+White,46,21953,813.3999938529629
+White,47,22695,789.5004116528376
+White,48,21544,739.6204432004297
+White,49,20927,818.3170229196018
+White,50,22123,736.8632505424599
+White,51,22473,735.1759313252849
+White,52,22618,787.2034679801659
+White,53,22051,652.9079184693658
+White,54,23567,664.9279284253295
+White,55,24325,900.0866902693318
+White,56,23922,976.9690373804075
+White,57,23349,767.6941448259196
+White,58,23232,832.9178530923683
+White,59,23818,719.2776584880139
+White,60,23529,756.0624974167149
+White,61,23577,843.7284812070765
+White,62,21540,605.7789613382096
+White,63,21729,761.0043692384427
+White,64,20102,691.2992839573899
+White,65,18040,620.7554268792179
+White,66,16951,606.0928146744524
+White,67,14922,587.2049046116697
+White,68,11858,493.50618030577897
+White,69,10568,465.27373663253337
+White,70,9031,396.7721638421728
+White,71,9075,521.6306643593722
+White,72,6462,402.6109784891614
+White,73,4554,284.26220290429046
+White,74,4997,311.38095638622474
+White,75,3868,272.17044292134295
+White,76,3937,239.7999165971498
+White,77,3032,257.8082620863808
+White,78,2978,226.38054245009664
+White,79,2702,235.9112121116756
+White,80,2263,258.69982605328516
+White,81,2297,213.4093484362857
+White,82,1663,184.83154492672512
+White,83,1366,149.15780234369237
+White,84,1099,201.54205516467277
+White,85,1210,163.99131074541725
+White,86,687,131.64288814820193
+White,87,723,116.00926687122887
+White,88,418,75.49271488031147
+White,89,206,58.8056119770894
+White,90,183,58.63957707896605
+White,91,108,48.92800833878281
+White,92,229,66.46841355109959
+White,93,318,99.01792766969021
+White,94,214,65.65896739973908
+White,95,57,56.61139461274559
+Hispanic or Latino,20,14,15.008331019803634
+Hispanic or Latino,21,71,50.05297193973601
+Hispanic or Latino,22,20,22.40200883849482
+Hispanic or Latino,23,66,38.37251620626409
+Hispanic or Latino,24,74,33.95438116061019
+Hispanic or Latino,25,566,168.46883984879815
+Hispanic or Latino,26,1157,202.66339087264873
+Hispanic or Latino,27,1652,262.3493853623446
+Hispanic or Latino,28,1183,157.4425291971645
+Hispanic or Latino,29,1771,210.5885799372796
+Hispanic or Latino,30,1685,229.24986368589185
+Hispanic or Latino,31,2036,248.8551787686967
+Hispanic or Latino,32,1937,245.98668663161428
+Hispanic or Latino,33,1739,241.14269634388683
+Hispanic or Latino,34,1751,216.29470636148264
+Hispanic or Latino,35,1533,212.41927878608382
+Hispanic or Latino,36,1482,219.25772506345132
+Hispanic or Latino,37,2307,328.56719251927757
+Hispanic or Latino,38,1700,221.04354774568742
+Hispanic or Latino,39,1417,209.73721653535884
+Hispanic or Latino,40,1854,289.2424588472446
+Hispanic or Latino,41,1778,220.35550821343224
+Hispanic or Latino,42,1758,248.3036447577844
+Hispanic or Latino,43,1716,223.2395574265457
+Hispanic or Latino,44,1505,239.28142426857963
+Hispanic or Latino,45,1452,204.17688409807806
+Hispanic or Latino,46,1378,189.45672329057103
+Hispanic or Latino,47,982,193.222669477471
+Hispanic or Latino,48,1098,191.4565224796481
+Hispanic or Latino,49,1326,221.68175387252782
+Hispanic or Latino,50,1092,177.60166102826855
+Hispanic or Latino,51,1058,175.83216429311219
+Hispanic or Latino,52,1361,227.2428216688043
+Hispanic or Latino,53,1004,162.35378036867513
+Hispanic or Latino,54,954,152.08928298864453
+Hispanic or Latino,55,1028,154.39980569935963
+Hispanic or Latino,56,931,155.191816794572
+Hispanic or Latino,57,603,126.96869692959757
+Hispanic or Latino,58,931,151.20102512879998
+Hispanic or Latino,59,633,112.87581671908292
+Hispanic or Latino,60,888,150.97383879334856
+Hispanic or Latino,61,871,158.32877186411824
+Hispanic or Latino,62,714,137.1730658693608
+Hispanic or Latino,63,579,133.67610108018562
+Hispanic or Latino,64,511,134.0346970004409
+Hispanic or Latino,65,476,115.31391936795835
+Hispanic or Latino,66,252,72.53654251479044
+Hispanic or Latino,67,291,101.03538983940231
+Hispanic or Latino,68,348,86.55605120382977
+Hispanic or Latino,69,275,100.9749969051745
+Hispanic or Latino,70,137,55.306871182521256
+Hispanic or Latino,71,162,57.063561052566634
+Hispanic or Latino,72,178,65.72822833455957
+Hispanic or Latino,73,14,15.458007633585902
+Hispanic or Latino,74,65,32.37051127183505
+Hispanic or Latino,75,80,40.96461888019953
+Hispanic or Latino,76,61,36.346939348451336
+Hispanic or Latino,77,56,25.63981279182826
+Hispanic or Latino,78,35,27.82804340948174
+Hispanic or Latino,79,5,6.6783231428256
+Hispanic or Latino,80,80,41.2165015497434
+Hispanic or Latino,81,23,23.633662433063567
+Hispanic or Latino,82,9,10.556988206870367
+Hispanic or Latino,83,12,13.313526955694348
+Hispanic or Latino,84,12,12.639224659764539
+Hispanic or Latino,85,39,30.412990645446232
+Hispanic or Latino,86,30,26.324893162176366
+Hispanic or Latino,87,6,6.2809234989768825
+Hispanic or Latino,88,26,26.033632093889626
+Hispanic or Latino,89,6,7.968688725254614
+Hispanic or Latino,93,35,33.647436752299576
+Asian American or Pacific Islander,22,24,18.139735389470268
+Asian American or Pacific Islander,23,156,77.0668540943511
+Asian American or Pacific Islander,24,137,62.9936504736787
+Asian American or Pacific Islander,25,650,160.4580942177739
+Asian American or Pacific Islander,26,1695,238.6297341070471
+Asian American or Pacific Islander,27,1837,289.93137118980417
+Asian American or Pacific Islander,28,1773,249.7066278655815
+Asian American or Pacific Islander,29,1892,262.4208452086076
+Asian American or Pacific Islander,30,2527,302.6091538602228
+Asian American or Pacific Islander,31,2329,296.84019269633956
+Asian American or Pacific Islander,32,2140,252.58216484938123
+Asian American or Pacific Islander,33,2913,357.67848691247843
+Asian American or Pacific Islander,34,2481,312.5649532497206
+Asian American or Pacific Islander,35,1901,273.2048681850307
+Asian American or Pacific Islander,36,1587,205.32535157646754
+Asian American or Pacific Islander,37,2742,297.0965331335928
+Asian American or Pacific Islander,38,2195,239.49697284099437
+Asian American or Pacific Islander,39,1963,316.86629672465955
+Asian American or Pacific Islander,40,1403,185.36571959237773
+Asian American or Pacific Islander,41,1365,196.193272055899
+Asian American or Pacific Islander,42,1455,214.12648131419897
+Asian American or Pacific Islander,43,1108,161.26561939855625
+Asian American or Pacific Islander,44,1238,189.0998413537145
+Asian American or Pacific Islander,45,1272,220.03545168904034
+Asian American or Pacific Islander,46,799,151.7672560205264
+Asian American or Pacific Islander,47,633,124.51867329842541
+Asian American or Pacific Islander,48,494,88.31959012586053
+Asian American or Pacific Islander,49,676,139.43116581309934
+Asian American or Pacific Islander,50,683,123.75095959223913
+Asian American or Pacific Islander,51,484,108.46059192167449
+Asian American or Pacific Islander,52,712,153.70230967685555
+Asian American or Pacific Islander,53,424,125.24715565632619
+Asian American or Pacific Islander,54,512,148.20509437937685
+Asian American or Pacific Islander,55,487,99.40648872181333
+Asian American or Pacific Islander,56,396,71.71575837987073
+Asian American or Pacific Islander,57,413,92.39128746802915
+Asian American or Pacific Islander,58,499,129.94325684697918
+Asian American or Pacific Islander,59,508,125.89162005471215
+Asian American or Pacific Islander,60,468,109.23209235384994
+Asian American or Pacific Islander,61,309,77.8623785919747
+Asian American or Pacific Islander,62,416,98.82358018205979
+Asian American or Pacific Islander,63,480,97.60302249418304
+Asian American or Pacific Islander,64,280,75.08228819102412
+Asian American or Pacific Islander,65,249,90.90269522956952
+Asian American or Pacific Islander,66,317,90.07496877601457
+Asian American or Pacific Islander,67,217,63.27400730157685
+Asian American or Pacific Islander,68,105,83.88802059889125
+Asian American or Pacific Islander,69,51,27.32855649316297
+Asian American or Pacific Islander,70,241,138.61367176436818
+Asian American or Pacific Islander,71,59,35.11053972812152
+Asian American or Pacific Islander,72,49,29.448259710889538
+Asian American or Pacific Islander,73,96,49.836733440304855
+Asian American or Pacific Islander,74,85,37.30080428087309
+Asian American or Pacific Islander,75,19,13.588598161694238
+Asian American or Pacific Islander,77,30,25.892083732291614
+Asian American or Pacific Islander,78,33,23.67910471280534
+Asian American or Pacific Islander,80,46,42.137275659444335
+Asian American or Pacific Islander,81,13,13.996428115772966
+Asian American or Pacific Islander,83,72,61.47723155770761
+Asian American or Pacific Islander,84,13,13.696714934611146
+Asian American or Pacific Islander,85,13,13.831124321616086
+Asian American or Pacific Islander,86,15,15.618898808814917
+American Indian or Alaska Native,23,9,8.28854631404084
+American Indian or Alaska Native,26,11,12.010412149464313
+American Indian or Alaska Native,27,16,15.670035098875816
+American Indian or Alaska Native,28,10,12.03951826278776
+American Indian or Alaska Native,30,52,31.77577693778706
+American Indian or Alaska Native,31,205,130.6715347732627
+American Indian or Alaska Native,32,87,50.450470760935424
+American Indian or Alaska Native,33,45,41.53311931459037
+American Indian or Alaska Native,34,109,53.782896909705414
+American Indian or Alaska Native,35,34,26.94995361777085
+American Indian or Alaska Native,36,68,43.8525939939703
+American Indian or Alaska Native,37,53,30.054949675552614
+American Indian or Alaska Native,38,17,16.92926460304759
+American Indian or Alaska Native,39,115,51.946607203935855
+American Indian or Alaska Native,40,21,19.014468175576198
+American Indian or Alaska Native,41,165,77.3456527543727
+American Indian or Alaska Native,42,68,43.379142453487944
+American Indian or Alaska Native,43,43,32.42144352122527
+American Indian or Alaska Native,44,46,24.08734107368433
+American Indian or Alaska Native,45,90,33.30090088871471
+American Indian or Alaska Native,46,37,27.04810529408668
+American Indian or Alaska Native,47,97,47.75981574503821
+American Indian or Alaska Native,48,112,53.80566884632139
+American Indian or Alaska Native,49,69,40.607881008493905
+American Indian or Alaska Native,50,76,37.25318778306093
+American Indian or Alaska Native,51,121,44.42634353623985
+American Indian or Alaska Native,52,90,39.67177838211945
+American Indian or Alaska Native,53,98,47.40569586030776
+American Indian or Alaska Native,54,77,45.778269954204255
+American Indian or Alaska Native,55,48,22.412050330123748
+American Indian or Alaska Native,56,25,17.08215443086732
+American Indian or Alaska Native,57,29,20.74246851269154
+American Indian or Alaska Native,58,26,13.183322798141598
+American Indian or Alaska Native,59,26,18.55128027926914
+American Indian or Alaska Native,60,140,68.32093383436734
+American Indian or Alaska Native,61,21,17.555625878902752
+American Indian or Alaska Native,62,38,22.889954128394404
+American Indian or Alaska Native,63,122,67.41587350172065
+American Indian or Alaska Native,64,2,2.8106938645110393
+American Indian or Alaska Native,65,29,22.638462845343543
+American Indian or Alaska Native,67,40,30.220026472523152
+American Indian or Alaska Native,68,7,7.183313998427188
+American Indian or Alaska Native,69,27,17.022044530549202
+American Indian or Alaska Native,70,12,12.50399936020472
+American Indian or Alaska Native,71,9,9.436630754670865
+American Indian or Alaska Native,72,9,8.843076387773658
+American Indian or Alaska Native,73,35,21.3283848427395
+American Indian or Alaska Native,76,5,5.911852501542981
+American Indian or Alaska Native,77,9,10.21518477561713
+American Indian or Alaska Native,80,15,12.821856339859686
+Unknown or Other,67,9,9.033271832508973
+Unknown or Other,70,13,13.494443300855357
+Unknown or Other,72,13,14.964959071110085
+Unknown or Other,73,12,12.563836993530282
+Unknown or Other,78,7,8.167006795638168
+Unknown or Other,22,15,16.26960356001338
+Unknown or Other,24,12,13.198484761517134
+Unknown or Other,25,71,44.47077692147957
+Unknown or Other,26,10,9.896969233053117
+Unknown or Other,27,42,30.616172197059516
+Unknown or Other,28,15,15.59166443969341
+Unknown or Other,29,68,35.924225809333734
+Unknown or Other,30,68,65.31041264607046
+Unknown or Other,31,45,26.75443888404315
+Unknown or Other,32,68,64.44648943115521
+Unknown or Other,33,13,12.812103652406188
+Unknown or Other,34,46,36.46093800219627
+Unknown or Other,35,26,19.83053201505194
+Unknown or Other,36,6,6.8044103344816005
+Unknown or Other,38,53,41.09379515206645
+Unknown or Other,39,13,12.062338081814818
+Unknown or Other,40,110,77.6414837570741
+Unknown or Other,41,185,92.78361924391612
+Unknown or Other,43,23,16.688319268278637
+Unknown or Other,46,14,13.76045057401828
+Unknown or Other,47,38,27.890858717508145
+Unknown or Other,48,11,11.61895003862225
+Unknown or Other,49,33,23.98124267005361
+Unknown or Other,50,10,10.404326023342406
+Unknown or Other,51,24,24.543838330627914
+Unknown or Other,53,27,15.561169621850409
+Unknown or Other,54,49,40.21256022687439
+Unknown or Other,56,47,34.36058788786944
+Unknown or Other,57,40,33.80088756231114
+Unknown or Other,58,20,22.020445045457187
+Unknown or Other,59,21,15.533834040570925
+Unknown or Other,60,36,27.012034355079592
+Unknown or Other,62,40,24.786084805793756
+Unknown or Other,63,29,20.979752143435825
+Two or more races,22,53,57.95774322728586
+Two or more races,24,14,14.541320435228707
+Two or more races,25,294,103.20392434398995
+Two or more races,26,321,134.64694575072988
+Two or more races,27,379,145.1259797555214
+Two or more races,28,658,126.71207519411874
+Two or more races,29,670,154.01704451131374
+Two or more races,30,732,145.85009427490954
+Two or more races,31,893,156.8724003768668
+Two or more races,32,643,144.26676678986053
+Two or more races,33,692,136.02077047274804
+Two or more races,34,508,96.95359714832658
+Two or more races,35,772,171.0872584384939
+Two or more races,36,741,165.6307640506437
+Two or more races,37,788,200.73265803052578
+Two or more races,38,513,101.1778137735739
+Two or more races,39,464,113.2249972400088
+Two or more races,40,621,132.97123749142145
+Two or more races,41,458,120.48672126006252
+Two or more races,42,784,174.18582031841743
+Two or more races,43,631,151.33208516372198
+Two or more races,44,349,107.47278725333219
+Two or more races,45,470,110.33086603484993
+Two or more races,46,289,73.65358103989242
+Two or more races,47,247,78.65971014439349
+Two or more races,48,505,111.61899479927241
+Two or more races,49,397,138.90176384769202
+Two or more races,50,502,137.8479234518968
+Two or more races,51,341,93.80298502713013
+Two or more races,52,294,93.95397809566128
+Two or more races,53,339,89.56003573022959
+Two or more races,54,245,93.98244516929745
+Two or more races,55,154,57.009648306229714
+Two or more races,56,301,92.92227935215537
+Two or more races,57,236,69.60603422117941
+Two or more races,58,202,63.657285521768834
+Two or more races,59,179,67.90323998160913
+Two or more races,60,147,42.41697773297857
+Two or more races,61,172,61.64981751797811
+Two or more races,62,336,90.73092085942918
+Two or more races,63,194,62.02983153290037
+Two or more races,64,115,50.613733314190526
+Two or more races,65,51,30.332325990599536
+Two or more races,66,139,51.020584081329375
+Two or more races,67,69,35.031414473298106
+Two or more races,68,61,33.79127106221369
+Two or more races,69,74,48.705235858170326
+Two or more races,70,50,33.60654698120591
+Two or more races,71,22,22.614154859291116
+Two or more races,72,26,22.771692954192055
+Two or more races,73,33,28.265703599945997
+Two or more races,74,12,14.881196188478937
+Two or more races,75,54,34.498550694195835
+Two or more races,76,19,19.458931111445974
+Two or more races,79,32,23.009780529157595
+Two or more races,80,28,21.259115691862633
+Two or more races,81,53,38.467518765836715
+Two or more races,82,16,17.7214559221301
+Two or more races,90,8,9.12414379544733
+Two or more races,93,5,4.959838707054898
+Black or African American,23,41,44.39256694537949
+Black or African American,24,85,51.280600620507556
+Black or African American,25,219,67.49148094389395
+Black or African American,26,874,171.2582844711461
+Black or African American,27,1338,238.33663167880846
+Black or African American,28,1021,202.79090216279428
+Black or African American,29,1265,195.78406472437945
+Black or African American,30,1565,281.9368723668474
+Black or African American,31,1210,206.08711750131303
+Black or African American,32,1186,231.53941349152632
+Black or African American,33,1860,254.10421090568335
+Black or African American,34,1500,215.7269106996158
+Black or African American,35,1847,247.74180107523236
+Black or African American,36,2165,368.35526329889734
+Black or African American,37,1789,271.19679201642487
+Black or African American,38,1312,235.19151770418932
+Black or African American,39,1650,259.8310027691076
+Black or African American,40,1915,304.9522913506308
+Black or African American,41,1613,221.9358015282798
+Black or African American,42,1640,289.6508242694987
+Black or African American,43,1913,272.5471518838529
+Black or African American,44,1442,165.52673500072427
+Black or African American,45,1523,233.48244045323838
+Black or African American,46,1691,244.87547856002243
+Black or African American,47,1371,210.32486776413293
+Black or African American,48,1488,237.89567041037128
+Black or African American,49,1227,193.34011482359267
+Black or African American,50,1387,221.19787521583476
+Black or African American,51,1607,219.80934920971856
+Black or African American,52,1269,218.6625253672883
+Black or African American,53,1520,219.14595592891968
+Black or African American,54,1102,149.39427699881946
+Black or African American,55,1221,204.60742899513693
+Black or African American,56,944,147.62418501045147
+Black or African American,57,918,156.23347912659437
+Black or African American,58,1060,168.1365516477604
+Black or African American,59,543,94.91443515082413
+Black or African American,60,894,151.150752561805
+Black or African American,61,886,153.10111038134244
+Black or African American,62,809,151.51237573214937
+Black or African American,63,851,179.20923525309738
+Black or African American,64,855,159.49733540094016
+Black or African American,65,506,107.08828133834253
+Black or African American,66,457,105.61131568160677
+Black or African American,67,434,119.00630235411904
+Black or African American,68,215,69.35848902621798
+Black or African American,69,203,73.4792487713368
+Black or African American,70,254,68.43025646598147
+Black or African American,71,171,61.95441872861048
+Black or African American,72,276,85.83414239100895
+Black or African American,73,110,44.72583146236636
+Black or African American,74,52,30.170349683091178
+Black or African American,75,71,35.72814016989969
+Black or African American,76,28,21.03924903602788
+Black or African American,77,30,19.3778223750761
+Black or African American,78,91,42.80478945164898
+Black or African American,80,39,22.761810121341405
+Black or African American,81,53,32.93630216038224
+Black or African American,83,24,26.405491853021786
+Black or African American,84,77,33.734255586866
+Black or African American,87,8,8.360621986431392
+Black or African American,88,21,22.753021777337622
+Black or African American,93,14,15.52095357895255
